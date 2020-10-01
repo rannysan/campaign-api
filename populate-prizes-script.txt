@@ -1,0 +1,1230 @@
+db.Prizes.insertMany([
+  {
+    "Name": "Prize1",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize2",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize3",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize4",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize5",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize6",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize7",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize8",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize9",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize10",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize11",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize12",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize13",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize14",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize15",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize16",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize17",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize18",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize19",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize20",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize21",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize22",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize23",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize24",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize25",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize26",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize27",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize28",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize29",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize30",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize31",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize32",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize33",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize34",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize35",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize36",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize37",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize38",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize39",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize40",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize41",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize42",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize43",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize44",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize45",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize46",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize47",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize48",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize49",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize50",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize51",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize52",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize53",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize54",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize55",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize56",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize57",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize58",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize59",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize60",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize61",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize62",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize63",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize64",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize65",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize66",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize67",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize68",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize69",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize70",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize71",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize72",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize73",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize74",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize75",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize76",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize77",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize78",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize79",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize80",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize81",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize82",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize83",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize84",
+    "Weight": 71,
+    "Rarity": 1
+  },
+  {
+    "Name": "Prize85",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize86",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize87",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize88",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize89",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize90",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize91",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize92",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize93",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize94",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize95",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize96",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize97",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize98",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize99",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize100",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize101",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize102",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize103",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize104",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize105",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize106",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize107",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize108",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize109",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize110",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize111",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize112",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize113",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize114",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize115",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize116",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize117",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize118",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize119",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize120",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize121",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize122",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize123",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize124",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize125",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize126",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize127",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize128",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize129",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize130",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize131",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize132",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize133",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize134",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize135",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize136",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize137",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize138",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize139",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize140",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize141",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize142",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize143",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize144",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize145",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize146",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize147",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize148",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize149",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize150",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize151",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize152",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize153",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize154",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize155",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize156",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize157",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize158",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize159",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize160",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize161",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize162",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize163",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize164",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize165",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize166",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize167",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize168",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize169",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize170",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize171",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize172",
+    "Weight": 24,
+    "Rarity": 2
+  },
+  {
+    "Name": "Prize173",
+    "Weight": 24,
+    "Rarity": 2
+  },{
+    "Name": "Prize174",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize175",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize176",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize177",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize178",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize179",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize180",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize181",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize182",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize183",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize184",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize185",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize186",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize187",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize188",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize189",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize190",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize191",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize192",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize193",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize194",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize195",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize196",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize197",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize198",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize199",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize200",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize201",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize202",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize203",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize204",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize205",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize206",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize207",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize208",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize209",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize210",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize211",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize212",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize213",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize214",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize215",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize216",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize217",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize218",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize219",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize220",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize221",
+    "Weight": 5.3,
+    "Rarity": 3
+  },
+  {
+    "Name": "Prize222",
+    "Weight": 5.3,
+    "Rarity": 3
+  },{
+    "Name": "Prize223",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize224",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize225",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize226",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize227",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize228",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize229",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize230",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize231",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize232",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize233",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize234",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize235",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize236",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize237",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize238",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize239",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize240",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize241",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize242",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize243",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize244",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize245",
+    "Weight": 1,
+    "Rarity": 4
+  },
+  {
+    "Name": "Prize246",
+    "Weight": 1,
+    "Rarity": 4
+  }
+])
