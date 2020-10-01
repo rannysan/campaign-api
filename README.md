@@ -1,7 +1,5 @@
 # campaign-api
 
-# campaign-api
-
 Api developed to manage campaigns.
 
 ##### Technologies
