@@ -61,6 +61,8 @@ Api developed to manage campaigns.
 			db.createCollection('Users')
 		○ Run the following command to create the Prizes collection:
 			db.createCollection('Prizes')
+			
+ It is also necessary to run the populate-prizes-script found in the root folder to populate the prizes collection
 
 ### How to use the API
 ###### Main Page
